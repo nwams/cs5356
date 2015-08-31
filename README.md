@@ -86,6 +86,8 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Jocelyn Kong](people/jocelyn-kong.md)
 * [Matt Zhang](people/matt-zhang.md)
 * [Omri Sass](people/omri-sass.md) 
+* [Nwamaka Nzeocha](people/nwamaka-nzeocha.md)
+
 
 Copyright & License
 -------------------
